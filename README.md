@@ -4,3 +4,5 @@ Aplicativo que faz web scrapping para buscar os resultados dos jogos das loteria
 ### Como utilizar?
 Para utilizar, basta clonar, adicionar as referências Newtonsoft e OpenQA Selenium. Depois, baixar o ChromeDriver na versão do seu navegador 
 ([clicando aqui](https://chromedriver.chromium.org/downloads)) e colocar na raiz de onde ficará o seu .exe.
+
+O programa irá adicionar uma pasta JSON na raiz e criar um arquivo json para cada tipo de jogo.
